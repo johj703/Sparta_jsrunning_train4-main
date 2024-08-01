@@ -15,7 +15,7 @@ function myName(){
 myName();
 
 /* 내 답 => myName 함수를 출력 했으니 myName 스코프 안에서 선언한 var name = "yuno2"여기에서 name 
-변수에 할당한 값인 yuno2가 출력 됩니다. 
+변수에 할당한 값인 yuno2가 출력 됩니다. - 스코프 체인 공부 필요!
 */
 
 //2. 출력값과 출력되는 값의 이유를 설명해주세요
